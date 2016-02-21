@@ -1,12 +1,32 @@
-body {
-    background-color: lightgrey;
-}
-
-h1 {
-    color: black;
+h2 {
+   color: black;
    text-align: center;
 }
 
-pre {
-    color:brown;
+#carMakes {
+    font-size: 120%;
+    background-color:darkslategrey;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#tyreBrands {
+    font-size: 120%;
+    background-color:darkslategrey;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+
+#Magazine {
+    font-size: 110%;
+    background-color: lightgray;
+    color:darkblue;
+    text-align:center;
+    padding:5px;
+}
+
+#footer{
+    text-align: center;
 }
